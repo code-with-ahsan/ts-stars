@@ -2,7 +2,9 @@
 
 Welcome to the ultimate TypeScript project setup guide! Whether you're a newbie getting your feet wet or a seasoned developer looking for a refresh, this repository offers comprehensive insights into setting up a TypeScript project with all the bells and whistles.
 
-![TypeScript Logo](URL-to-TypeScript-logo-if-you-want)
+<div style="display: flex;">
+  <img src="./ts-logo.png" style="margin-inline: auto; width: 300px;">
+</div>
 
 ## 📌 Table of Contents
 
